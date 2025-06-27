@@ -1,6 +1,6 @@
 # GitHub Security Quiz: 75 Questions with Answers
 
-This README contains 75 questions related to GitHub security features, including Code Scanning, Secret Scanning, Dependabot, and more, along with their multiple-choice options and correct answers. Perfect for studying GitHub security concepts! 🚀
+This README contains 75 questions related to GitHub security features, including Code Scanning, Secret Scanning, Dependabot, and more, along with their multiple-choice options. Answers are hidden in collapsible sections—click the arrow to reveal them! Perfect for studying GitHub security concepts! 🚀
 
 ---
 
@@ -12,7 +12,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Admin
 - D) Triage
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Admin
+</details>
 
 ---
 
@@ -22,7 +25,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) branches-ignore
 - D) secret_scanning.yml
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: paths-ignore
+</details>
 
 ---
 
@@ -32,7 +38,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Viewing the Dependabot alert on the Dependabot alerts tab
 - D) Creating a pull request to resolve the vulnerability that will be approved and merged
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Creating a pull request to resolve the vulnerability that will be approved and merged
+</details>
 
 ---
 
@@ -42,7 +51,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) upload-sarif
 - D) scheduled
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: upload-sarif
+</details>
 
 ---
 
@@ -52,7 +64,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Vulnerability Exploitability eXchange (VEX)
 - D) GitHub Security Advisory (GHSA)
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Common Weakness Enumeration (CWE)
+</details>
 
 ---
 
@@ -62,7 +77,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) A feature to identify all your project's dependencies
 - D) A feature to privately discuss, fix, and publish information about security vulnerabilities
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A feature that analyzes the code in a GitHub repository to find security vulnerabilities and coding errors
+</details>
 
 ---
 
@@ -73,7 +91,10 @@ This README contains 75 questions related to GitHub security features, including
 - D) Write queries
 - E) Upload scan results
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Install the CLI, Analyze code, Upload scan results
+</details>
 
 ---
 
@@ -83,7 +104,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Security GuardRails
 - D) Status enforcement
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Repository rulesets
+</details>
 
 ---
 
@@ -93,7 +117,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Cross site scripting (XSS)
 - D) Structured query language (SQL) injection
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: GitHub personal access token
+</details>
 
 ---
 
@@ -103,7 +130,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Write
 - D) Admin
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Write
+</details>
 
 ---
 
@@ -113,7 +143,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Actions tab
 - D) Security tab
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Settings tab
+</details>
 
 ---
 
@@ -123,7 +156,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Use feature branches
 - D) Configure a secret scanning Actions workflow
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Enable push protection
+</details>
 
 ---
 
@@ -133,7 +169,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Constructs a graph of all the repository's dependencies
 - D) Creates a pull request to upgrade the vulnerable dependency to the minimum possible secure version
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Creates a pull request to upgrade the vulnerable dependency to the minimum possible secure version
+</details>
 
 ---
 
@@ -143,7 +182,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) After you find the code and click the alert
 - D) After you triage the pull request
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: After you fix the code by committing within the pull request
+</details>
 
 ---
 
@@ -153,7 +195,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) An alert about dependencies with known vulnerabilities
 - D) A security alert issued to a community
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A file in a GitHub repository that provides instructions to users about how to report a security vulnerability
+</details>
 
 ---
 
@@ -163,7 +208,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Dependency review
 - D) Code scanning
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Dependency review
+</details>
 
 ---
 
@@ -173,7 +221,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Establish protection rules in the code security settings
 - D) Enable Dependabot for the organization
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Add a repository ruleset, Establish protection rules in the code security settings
+</details>
 
 ---
 
@@ -183,7 +234,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Scans the contents of the commits for additional secrets
 - D) Displays a public alert in the Security tab
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Notifies the service provider who issued the secret
+</details>
 
 ---
 
@@ -193,7 +247,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) When the pull request checks are successful
 - D) When Dependabot creates a pull request
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: When you merge a pull request that contains a security update
+</details>
 
 ---
 
@@ -203,7 +260,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) The workflow file must exist in that branch
 - D) Developers must actively maintain the repository
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: The workflow file must exist in that branch
+</details>
 
 ---
 
@@ -213,7 +273,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Configure code owners
 - D) Set up a security policy
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Configure code scanning
+</details>
 
 ---
 
@@ -223,17 +286,24 @@ This README contains 75 questions related to GitHub security features, including
 - C) 3
 - D) 4
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: 1
+</details>
 
 ---
 
-### 23. Assuming that no custom Dependabot behavior is configured, who has the ability to merge a pull request created via Dependabot?
+### 23. Assuming that norobot
+ no custom Dependabot behavior is configured, who has the ability to merge a pull request created via Dependabot?
 - A) A user who has write access to the repository
 - B) A user who has read access to the repository
 - C) A repository member of an enterprise organization
 - D) An enterprise administrator
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A user who has write access to the repository
+</details>
 
 ---
 
@@ -243,17 +313,24 @@ This README contains 75 questions related to GitHub security features, including
 - C) In the code scanning default setup settings
 - D) In the code security settings
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: In the code security settings
+</details>
 
 ---
 
-### 25. Where can you find the vulnerable dependencies that GitHub detected in your repository?
+### 25. Where can you find the vulnerable dependencies that GitHub detected in your repository Spouse
+repository?
 - A) In security advisories
 - B) In code scanning alerts
 - C) In Dependabot alerts
 - D) In secret scanning alerts
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: In Dependabot alerts
+</details>
 
 ---
 
@@ -263,7 +340,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Remove the autobuild step and add specific build steps
 - D) Compile the source code
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Remove the autobuild step and add specific build steps
+</details>
 
 ---
 
@@ -273,7 +353,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Rebase-strategy
 - D) Commit-message
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Package-ecosystem
+</details>
 
 ---
 
@@ -283,7 +366,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Validity checks
 - D) Custom patterns
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Validity checks
+</details>
 
 ---
 
@@ -293,7 +379,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Commits
 - D) Dependency graph
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Commits
+</details>
 
 ---
 
@@ -303,7 +392,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Remove the secret from the code base
 - D) Update any services that use the secret
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Revoke the secret
+</details>
 
 ---
 
@@ -313,7 +405,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Configure Require status checks with a CodeQL action
 - D) Configure Dependabot
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Configure a workflow with the dependency review action
+</details>
 
 ---
 
@@ -324,7 +419,10 @@ This README contains 75 questions related to GitHub security features, including
 - D) GitHub Security Advisory ID (GHSA)
 - E) Common Weakness Enumeration (CWE)
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Common Vulnerabilities and Exposures (CVE), GitHub Security Advisory ID (GHSA), Common Weakness Enumeration (CWE)
+</details>
 
 ---
 
@@ -334,7 +432,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Has 1,000 or more directories
 - D) Is 1 MB or larger
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Is 1 MB or larger
+</details>
 
 ---
 
@@ -344,7 +445,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Dependencies from all your repositories
 - D) A summary of the dependencies used in your organization's repositories
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Dependencies parsed from a repository's manifest and lock files
+</details>
 
 ---
 
@@ -354,7 +458,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Search for potential security vulnerabilities, detect secrets, and show the impact of dependency changes
 - D) Automatically raise pull requests to reduce exposure
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Search for potential security vulnerabilities, detect secrets, and show the impact of dependency changes
+</details>
 
 ---
 
@@ -364,7 +471,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Settings
 - D) Insights
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Settings
+</details>
 
 ---
 
@@ -374,7 +484,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) A build for Go projects to set up the project
 - D) A build of the code and extracted data
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A build of the code and extracted data
+</details>
 
 ---
 
@@ -384,7 +497,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) By resolving dependencies to give an accurate representation
 - D) By running directly on the source code
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: By monitoring the normal build process
+</details>
 
 ---
 
@@ -394,7 +510,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Security policy
 - D) Dependency review
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Secret scanning, Dependency review
+</details>
 
 ---
 
@@ -404,7 +523,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Read
 - D) Maintain
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Triage
+</details>
 
 ---
 
@@ -414,7 +536,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) CodeQL excludes alerts for dependencies specified in the matrix
 - D) CodeQL is configured to run analysis sequentially
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: You can use the languages parameter under the init action
+</details>
 
 ---
 
@@ -424,7 +549,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) codeql-scan.yml
 - D) codeql.yml
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: codeql.yml
+</details>
 
 ---
 
@@ -434,7 +562,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Queries
 - D) Scope
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Packs, Queries
+</details>
 
 ---
 
@@ -444,7 +575,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Comma separated values (CSV)
 - D) ESLint
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Static Analysis Results Interchange Format (SARIF)
+</details>
 
 ---
 
@@ -454,7 +588,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) query
 - D) suite
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: query
+</details>
 
 ---
 
@@ -464,7 +601,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Repository maintainers
 - D) Repository administrators
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Repository administrators
+</details>
 
 ---
 
@@ -474,7 +614,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) security_events
 - D) admin:org
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: security_events
+</details>
 
 ---
 
@@ -485,7 +628,10 @@ This README contains 75 questions related to GitHub security features, including
 - D) Full commit history
 - E) All branches
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: All files in the repository, Full commit history, All branches
+</details>
 
 ---
 
@@ -495,7 +641,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) An alert is created for a secret that's been exposed
 - D) A pull request is opened that fixes a vulnerable dependency
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A pull request is opened that fixes a vulnerable dependency
+</details>
 
 ---
 
@@ -505,7 +654,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Validity checks
 - D) Custom patterns
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Validity checks
+</details>
 
 ---
 
@@ -515,7 +667,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Commits
 - D) Dependency graph
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Commits
+</details>
 
 ---
 
@@ -525,7 +680,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Remove the secret from the code base
 - D) Update any services that use the secret
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Revoke the secret
+</details>
 
 ---
 
@@ -535,7 +693,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Configure Require status checks with a CodeQL action
 - D) Configure Dependabot
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Configure a workflow with the dependency review action
+</details>
 
 ---
 
@@ -546,7 +707,10 @@ This README contains 75 questions related to GitHub security features, including
 - D) GitHub Security Advisory ID (GHSA)
 - E) Common Weakness Enumeration (CWE)
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Common Vulnerabilities and Exposures (CVE), GitHub Security Advisory ID (GHSA), Common Weakness Enumeration (CWE)
+</details>
 
 ---
 
@@ -556,17 +720,23 @@ This README contains 75 questions related to GitHub security features, including
 - C) Has 1,000 or more directories
 - D) Is 1 MB or larger
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Is 1 MB or larger
+</details>
 
 ---
 
 ### 56. A repository's dependency graph includes:
 - A) Annotated code scanning alerts from your repository's dependencies
-- B)Dependencies parsed from a repository's manifest and lock files
+- B) Dependencies parsed from a repository's manifest and lock files
 - C) Dependencies from all your repositories
 - D) A summary of the dependencies used in your organization's repositories
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Dependencies parsed from a repository's manifest and lock files
+</details>
 
 ---
 
@@ -576,7 +746,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Search for potential security vulnerabilities, detect secrets, and show the impact of dependency changes
 - D) Automatically raise pull requests to reduce exposure
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Search for potential security vulnerabilities, detect secrets, and show the impact of dependency changes
+</details>
 
 ---
 
@@ -586,7 +759,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Settings
 - D) Insights
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Settings
+</details>
 
 ---
 
@@ -596,7 +772,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) A build for Go projects to set up the project
 - D) A build of the code and extracted data
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A build of the code and extracted data
+</details>
 
 ---
 
@@ -606,7 +785,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) By resolving dependencies to give an accurate representation
 - D) By running directly on the source code
 
-**Correct Answer**: By monitoring the normal build processandria
+<details>
+<summary>Show Answer</summary>
+**Correct Answer**: By monitoring the normal build process
+</details>
 
 ---
 
@@ -616,7 +798,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Security policy
 - D) Dependency review
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Secret scanning, Dependency review
+</details>
 
 ---
 
@@ -626,7 +811,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Read
 - D) Maintain
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Triage
+</details>
 
 ---
 
@@ -636,7 +824,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) CodeQL excludes alerts for dependencies specified in the matrix
 - D) CodeQL is configured to run analysis sequentially
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: You can use the languages parameter under the init action
+</details>
 
 ---
 
@@ -646,7 +837,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) codeql-scan.yml
 - D) codeql.yml
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: codeql.yml
+</details>
 
 ---
 
@@ -656,7 +850,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Queries
 - D) Scope
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: Packs, Queries
+</details>
 
 ---
 
@@ -666,7 +863,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Comma separated values (CSV)
 - D) ESLint
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Static Analysis Results Interchange Format (SARIF)
+</details>
 
 ---
 
@@ -676,7 +876,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) query
 - D) suite
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: query
+</details>
 
 ---
 
@@ -686,7 +889,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Repository maintainers
 - D) Repository administrators
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Repository administrators
+</details>
 
 ---
 
@@ -696,7 +902,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) security_events
 - D) admin:org
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: security_events
+</details>
 
 ---
 
@@ -707,7 +916,10 @@ This README contains 75 questions related to GitHub security features, including
 - D) Full commit history
 - E) All branches
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answers**: All files in the repository, Full commit history, All branches
+</details>
 
 ---
 
@@ -717,7 +929,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) An alert is created for a secret that's been exposed
 - D) A pull request is opened that fixes a vulnerable dependency
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: A pull request is opened that fixes a vulnerable dependency
+</details>
 
 ---
 
@@ -727,7 +942,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Validity checks
 - D) Custom patterns
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Validity checks
+</details>
 
 ---
 
@@ -737,7 +955,10 @@ This README contains 75 questions related to GitHub security features, including
 - C) Commits
 - D) Dependency graph
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Commits
+</details>
 
 ---
 
@@ -745,10 +966,12 @@ This README contains 75 questions related to GitHub security features, including
 - A) Create a new secret
 - B) Revoke the secret
 - C) Remove the secret from the code base
-agemaker
 - D) Update any services that use the secret
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Revoke the secret
+</details>
 
 ---
 
@@ -758,4 +981,7 @@ agemaker
 - C) Configure Require status checks with a CodeQL action
 - D) Configure Dependabot
 
+<details>
+<summary>Show Answer</summary>
 **Correct Answer**: Configure a workflow with the dependency review action
+</details>
